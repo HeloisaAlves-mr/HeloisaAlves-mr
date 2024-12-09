@@ -1,15 +1,29 @@
-## Oii! Me chamo Heloisa Alves 💫
+# 🌸Heloisa Alves 
 
 
 <div>
-  <img align="right" height="140" width="140" alt="Helo-gif" src="https://media.discordapp.net/attachments/1172304970742239354/1315785128664109096/lolo.gif?ex=6758abe4&is=67575a64&hm=8b229da906559dc8da840ba7ef5f2cf6f67bb1dc0e66f155c1319b6ea28379de&=&width=554&height=554"/> 
+  <img align="right" height="150" width="150" alt="Helo-gif" src="https://media.discordapp.net/attachments/1172304970742239354/1315785128664109096/lolo.gif?ex=6758abe4&is=67575a64&hm=8b229da906559dc8da840ba7ef5f2cf6f67bb1dc0e66f155c1319b6ea28379de&=&width=554&height=554"/> 
 </div>
 
 <div>
-  <p>💼 Em busca do meu primeiro estágio </p>
-  <p>🌱 Estou aprofundando meus conhecimentos na área de front-end </p>
-  <p>🌟 Java é minha linguagem favorita e adoro aprender sobre banco de dados</p>
-  <p>🖌️ Já fui estudante de arquitetura (sou uma amante da arte e design) </p>
+  <p> ✦ Em busca do meu primeiro estágio </p>
+  <p> ✦ Estou aprofundando meus conhecimentos na área de front-end </p>
+  <p> ✦ Java é minha linguagem favorita e adoro aprender sobre banco de dados</p>
+  <p> ✦ Já fui estudante de arquitetura (sou uma amante da arte e design) </p>
+</div>
+
+##
+
+### 🖥️ Linguagens e Tecnologias 
+<div>
+  <img align="center" alt="Helo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center" alt="Helo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" alt="Helo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center" alt="Helo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="Helo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+  <img align="center" alt="Helo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+  <img align="center" alt="Helo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"/>
+  <p></p>
 </div>
 
 <div> 
@@ -18,16 +32,6 @@
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeloisaAlves-mr&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
-<div>
-  <p></p>
-  <img align="center" alt="Helo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="Helo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Helo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Helo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" alt="Helo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-  <img align="center" alt="Helo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
-  <img align="center" alt="Helo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"/>
-</div>
 
 
 ##
